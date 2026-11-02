@@ -1,3 +1,6 @@
+<!-- archived-notice -->
+> **This repository is archived.** Archived repositories are not maintained or supported.
+
 # aps-forma-pdf-esign
 
 Sample to connect PDFs from Forma (Autodesk Construction Cloud) with e-sign solutions through APS APIs. It supports **Adobe Acrobat Sign** and **Docusign**, one per deployment (see [Configuration](#configuration)).
